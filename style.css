@@ -1,0 +1,133 @@
+#btm {
+    position: absolute;
+    width: 50%;
+    bottom: 0px;
+    right: 0px;
+}
+
+#tpp {
+    position: absolute;
+    top: 0;
+    width: 40%;
+}
+
+#maindiv {
+    padding: 90px;
+}
+
+#ttldiv {
+    width: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ttldiv h1 {
+    color: hsl(300, 43%, 22%);
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+#ttldiv p {
+    font-size: 15px;
+    color: hsl(303, 10%, 53%);
+}
+
+#ratinglable {
+    position: absolute;
+    top: 150px;
+    right: 200px;
+}
+
+.stardiv {
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+    height: 50px;
+    align-items: center;
+    background-color: hsl(300, 24%, 96%);
+    border-radius: 10px;
+    padding-right: 70px;
+    margin: 10px;
+}
+
+.ss {
+    margin-left: 50px;
+}
+
+.ts {
+    margin-left: 100px;
+}
+
+
+.stardiv h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+#carddiv {
+    height: 200px;
+    display: flex;
+    padding-left: 60px;
+}
+
+.card {
+    width: 300px;
+    height: 200px;
+    background-color: hsl(300, 43%, 22%);
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px;
+
+
+}
+
+.namediv {
+    padding: 20px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 0px;
+
+}
+
+.namediv h7 {
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    margin-left: 20px;
+}
+
+.nmt {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.vft {
+    color: hsl(333, 80%, 67%);
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+
+.namediv img {
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    display: inline;
+
+}
+
+.desc {
+    padding: 20px;
+    padding-top: 0px;
+    font-size: 13px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.scrd {
+    margin-top: 40px;
+}
+
+.tcrd {
+    margin-top: 60px;
+}
